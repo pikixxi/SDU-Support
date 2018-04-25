@@ -1,0 +1,32 @@
+#hBox {
+-fx-background-color: #2C3E50
+
+}
+
+#root1{
+-fx-background-image: url(custom-maps.jpg);
+}
+
+#label {
+-fx-text-fill: #FFFFFF;
+-fx-font-size: 19px;
+-fx-font-family: "Candara";
+}
+
+#label1 {
+-fx-font-size: 19px;
+-fx-font-family: "Candara";
+}
+
+#button {
+-fx-background-color: #2C3E50;
+}
+
+#menu {
+-fx-background-color: #2C3E50;
+}
+
+#buttonMenu {
+-fx-background-color: #2C3E50;
+-fx-text-fill: #FFFFFF;
+}
